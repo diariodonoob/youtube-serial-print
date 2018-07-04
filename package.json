@@ -1,0 +1,23 @@
+{
+  "name": "youtube-serial-print",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diariodonoob/youtube-serial-print.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diariodonoob/youtube-serial-print/issues"
+  },
+  "homepage": "https://github.com/diariodonoob/youtube-serial-print#readme",
+  "dependencies": {
+    "serialport": "^6.2.1"
+  }
+}
